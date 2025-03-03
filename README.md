@@ -2,7 +2,7 @@
 ## Resources
 The content of this project has been compiled from various sources, including:
 
-fficial Python and library documentation (pandas, matplotlib, etc.).
+fficial Python and library documentation (pandas, matplotlib, scikit learn, etc.).
 
 Online tutorials and coding communities.
 
